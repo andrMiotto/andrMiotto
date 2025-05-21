@@ -1,64 +1,64 @@
-## 👨‍💻 Olá! Eu sou André Miotto
+# Olá! Eu sou André Miotto 👨‍💻
 
 🎓 Desenvolvedor Júnior em formação buscando aperfeiçoamento constante.
 
 ---
 
-### 🧠 Sobre mim
+## 🧠 Sobre mim
 
-🎯 Foco em: Desenvolvimento FullStack e boas práticas de programação  
-📚 Curioso por: Clean Code, arquitetura de software, testes automatizados  
-🔧 Aprendendo com o CentroWeg com atividades e projetos diversos  
-💼 Em busca da minha primeira oportunidade profissional na área  
-
----
-
-### 🌍 Países que já visitei
-
-- 🇧🇷 Brasil (país onde vivi a maior parte da minha vida)
-- 🇵🇹 Portugal (país onde nasci)
-- 🇫🇷 França
-- 🇨🇭 Suíça
+- 🎯 Foco em: Desenvolvimento FullStack e boas práticas de programação  
+- 📚 Curioso por: Clean Code, arquitetura de software, testes automatizados  
+- 🔧 Aprendendo com o CentroWeg com atividades e projetos diversos  
+- 💼 Em busca da minha primeira oportunidade profissional na área  
 
 ---
 
-### 🌐 Idiomas
+## 🌍 Países que já visitei
 
-- 🇧🇷 Português — fluente (nativo)  
-- 🇺🇸 Inglês — básico  
-- 🇫🇷 Francês — básico  
-- 🇪🇸 Espanhol — em aprendizado (ensino médio)
+- <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil (país onde vivi a maior parte da minha vida)  
+- <img src="https://flagcdn.com/w40/pt.png" width="20"/> Portugal (país onde nasci)  
+- <img src="https://flagcdn.com/w40/fr.png" width="20"/> França
+- <img src="https://flagcdn.com/w40/ch.png" width="20"/> Suíça
 
 ---
 
-## 💻 Ferramentas
+## 🌐 Idiomas
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
+- 🇧🇷 Português — **fluente (nativo)**  
+- 🇺🇸 Inglês — **básico**  
+- 🇫🇷 Francês — **básico**  
+- 🇪🇸 Espanhol — **em aprendizado (ensino médio)**
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
 
 ---
 
 ## 📂 Repositórios em destaque
 
-🔹 **projeto-backend-java**  
+🔹 [**projeto-backend-java**](https://github.com/CaduBraga/WegOne)  
 Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes línguas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
 
 ---
 
 ## 📫 Como me encontrar
 
-- 📧 andrelmiottop@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/andrelmiottop)  
-- 🐦 @andrelui0s  
+- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> [@andrelui0s](https://www.instagram.com/andrelui0s)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> [andrelmiottop@gmail.com](mailto:andrelmiottop@gmail.com)
 
 ---
 
 **Este é meu perfil!**  
-**Vamos conectar e construir juntos!**
+Vamos conectar e construir juntos!
