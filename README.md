@@ -35,8 +35,8 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 ## 📫 Como me encontrar
 
 - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> [@andrelui0s](https://www.instagram.com/andrelui0s)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Seu Nome no LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> [seuemail@email.com](mailto:seuemail@email.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Seu Nome no LinkedIn]()
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> [andrelmiottop@gmail.com](mailto:andrelmiottop@gmail.com)
 
 
 ---
