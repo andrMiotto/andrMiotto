@@ -34,9 +34,9 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 ## 📫 Como me encontrar
 
-- 📸 ![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white) [@andrelui0s](https://www.instagram.com/andrelui0s)
-- 💼 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white) [Seu Nome no LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- ✉️ ![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white) [seuemail@email.com](mailto:seuemail@email.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20"/> [@andrelui0s](https://www.instagram.com/andrelui0s)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [Seu Nome no LinkedIn](https://www.linkedin.com/in/seulinkedin)
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> [seuemail@email.com](mailto:seuemail@email.com)
 
 
 ---
