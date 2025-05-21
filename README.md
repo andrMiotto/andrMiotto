@@ -18,6 +18,7 @@
 - <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil (país onde vivi a maior parte da minha vida)  
 - <img src="https://flagcdn.com/w40/pt.png" width="20"/> Portugal (país onde nasci)  
 - <img src="https://flagcdn.com/w40/fr.png" width="20"/> França (residi por 1 ano)
+- <img src="https://flagcdn.com/w40/ch.png" width="20"/> Suíça
 
 ---
 
