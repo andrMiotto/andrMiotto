@@ -13,11 +13,11 @@
 
 ---
 
-## 🌍 Sobre minha jornada
+## 🌍 Países que já visitei
 
-- <img src="https://flagcdn.com/w40/br.png" width="20"/> <img src="https://flagcdn.com/w40/pt.png" width="20"/> Dupla nacionalidade  
-- <img src="https://flagcdn.com/w40/br.png" width="20"/> Vivi a maior parte da minha vida no **Brasil**  
-- <img src="https://flagcdn.com/w40/fr.png" width="20"/> Morei **1 ano na França**
+- <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil (país onde vivi a maior parte da minha vida)  
+- <img src="https://flagcdn.com/w40/pt.png" width="20"/> Portugal (país onde nasci)  
+- <img src="https://flagcdn.com/w40/fr.png" width="20"/> França (residi por 1 ano)
 
 ---
 
