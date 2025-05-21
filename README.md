@@ -6,10 +6,27 @@
 
 ## 🧠 Sobre mim
 
-- 🎯 Foco em: Desenvolvimento FullStack e boas práticas de programação
-- 📚 Curioso por: Clean Code, arquitetura de software, testes automatizados
-- 🔧 Aprendendo com o CentroWeg com atividades e projetos diversos
-- 💼 Em busca da minha primeira oportunidade profissional na área
+- 🎯 Foco em: Desenvolvimento FullStack e boas práticas de programação  
+- 📚 Curioso por: Clean Code, arquitetura de software, testes automatizados  
+- 🔧 Aprendendo com o CentroWeg com atividades e projetos diversos  
+- 💼 Em busca da minha primeira oportunidade profissional na área  
+
+---
+
+## 🌍 Sobre minha jornada
+
+- <img src="https://flagcdn.com/w40/br.png" width="20"/> <img src="https://flagcdn.com/w40/pt.png" width="20"/> Dupla nacionalidade  
+- <img src="https://flagcdn.com/w40/br.png" width="20"/> Vivi a maior parte da minha vida no **Brasil**  
+- <img src="https://flagcdn.com/w40/fr.png" width="20"/> Morei **1 ano na França**
+
+---
+
+## 🌐 Idiomas
+
+- 🇧🇷 Português — **fluente (nativo)**  
+- 🇺🇸 Inglês — **básico**  
+- 🇫🇷 Francês — **básico**  
+- 🇪🇸 Espanhol — **em aprendizado (ensino médio)**
 
 ---
 
@@ -25,24 +42,22 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
-
 ---
 
 ## 📂 Repositórios em destaque
 
 🔹 [**projeto-backend-java**](https://github.com/CaduBraga/WegOne)  
-Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes linguas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
+Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes línguas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
 
 ---
 
 ## 📫 Como me encontrar
 
-- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> [@andrelui0s](https://www.instagram.com/andrelui0s)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> []()
+- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> [@andrelui0s](https://www.instagram.com/andrelui0s)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> [andrelmiottop@gmail.com](mailto:andrelmiottop@gmail.com)
-
 
 ---
 
-**Este é meu perfil perfil!** 
+**Este é meu perfil!**  
 Vamos conectar e construir juntos!
