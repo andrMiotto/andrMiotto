@@ -1,3 +1,6 @@
+<div style="background-color:#f9f9f9; padding: 24px; border-radius: 12px;">
+
+
 <h1 align="center" style="color:#800000">Olá! Eu sou André Miotto</h1>
 
 <p align="center">
@@ -33,6 +36,7 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 </div>
 
 <div style="margin-bottom: 24px;">
+ <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Back-end</strong>
   <div>
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
@@ -44,8 +48,8 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
     <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img alt="MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
     </a>
-    <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
+    <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <img alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
     </a>
   </div>
 </div>
@@ -59,12 +63,16 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
     </a>
+    <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <img alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
+    </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
     </a>
+    
   </div>
 </div>
 
