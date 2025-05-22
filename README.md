@@ -115,7 +115,7 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> 
-  <a href="https://www.instagram.com/andrelui0s" style="color:#800000">[@andrelui0s](https://www.instagram.com/andrelui0s)</a>  
+  <a href="https://www.instagram.com/andrelui0s" style="color:#800000">@andrelui0s</a>  
 </p>
 
 <p>
