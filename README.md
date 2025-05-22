@@ -1,6 +1,3 @@
-<div style="background-color:#f9f9f9; padding: 24px; border-radius: 12px;">
-
-
 <h1 align="center" style="color:#800000">Olá! Eu sou André Miotto</h1>
 
 <p align="center">
