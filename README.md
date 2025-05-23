@@ -9,9 +9,9 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 <h2>🧠 Sobre mim</h2>
 
-- 🎯 <strong>Foco atual:</strong> Aprimorar minhas habilidades em desenvolvimento Full Stack, com ênfase em boas práticas de programação. 
-- 🔧 <strong>Em aprendizado:</strong> Participando do programa CentroWeg, desenvolvendo projetos práticos em equipe e aplicando conceitos fundamentais do desenvolvimento de software.  
-- 💼 <strong>Objetivo profissional:</strong> Evoluir como desenvolvedor Full Stack e me tornar um profissional completo, com domínio técnico, capacidade de trabalho em equipe e foco na entrega de soluções de qualidade. 
+- <strong>Foco atual:</strong> Aprimorar minhas habilidades em desenvolvimento Full Stack, com ênfase em boas práticas de programação. 
+- <strong>Em aprendizado:</strong> Participando do programa CentroWeg, desenvolvendo projetos práticos em equipe e aplicando conceitos fundamentais do desenvolvimento de software.  
+- <strong>Objetivo profissional:</strong> Evoluir como desenvolvedor Full Stack e me tornar um profissional completo, com domínio técnico, capacidade de trabalho em equipe e foco na entrega de soluções de qualidade. 
 
 ---
 
