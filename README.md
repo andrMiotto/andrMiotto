@@ -108,6 +108,8 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 ---
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andrMiotto&show_icons=true&title_color=800000&text_color=ffffff&icon_color=8B0000&bg_color=000000)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrMiotto&layout=compact&theme=dark&cache_seconds=60" alt="Top languages" height="180em"/>
+</p>
 
 ---
 
