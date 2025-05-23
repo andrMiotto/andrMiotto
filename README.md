@@ -33,7 +33,6 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 </div>
 
 <div style="margin-bottom: 24px;">
- <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Back-end</strong>
   <div>
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
@@ -47,6 +46,9 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
     </a>
     <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
       <img alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+      <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
     </a>
   </div>
 </div>
@@ -70,6 +72,14 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
       <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
     </a>
     
+---  
+<div>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrMiotto&layout=compact&title_color=800000&text_color=ffffff&bg_color=000000" 
+    alt="Linguagens mais usadas"
+  />
+</div>
   </div>
 </div>
 
@@ -107,9 +117,15 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andrMiotto&show_icons=true&title_color=800000&text_color=ffffff&icon_color=8B0000&bg_color=000000)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrMiotto&layout=compact&theme=dark&cache_seconds=60" alt="Top languages" height="180em"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img 
+    height="190em" 
+    src="https://github-readme-stats.vercel.app/api?username=andrMiotto&show_icons=true&title_color=800000&text_color=ffffff&icon_color=8B0000&bg_color=000000" 
+    alt="Estatísticas do GitHub"
+  />
+
+</div>
 
 ---
 
