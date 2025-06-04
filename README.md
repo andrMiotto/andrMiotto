@@ -87,10 +87,10 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 <h2>🌍 Países que já visitei</h2>
 
- <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil — onde vivi a maior parte da minha vida  
- <img src="https://flagcdn.com/w40/pt.png" width="20"/> Portugal — país onde nasci  
- <img src="https://flagcdn.com/w40/fr.png" width="20"/> França — residi um ano
- <img src="https://flagcdn.com/w40/ch.png" width="20"/> Suíça — por ser próximo de onde morei na França
+<img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil — onde vivi a maior parte da minha vida  
+<img src="https://flagcdn.com/w40/pt.png" width="20"/> Portugal — país onde nasci  
+<img src="https://flagcdn.com/w40/fr.png" width="20"/> França — residi um ano <br>
+<img src="https://flagcdn.com/w40/ch.png" width="20"/> Suíça — por ser próximo de onde morei na França
 
 ---
 
