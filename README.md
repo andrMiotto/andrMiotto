@@ -127,6 +127,9 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 </div>
 
+[![andrMiotto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrMiotto&bg_color=000000&color=ffffff&line=800000&point=800000&area=true&hide_border=true)](https://github.com/andrMiotto/github-readme-activity-graph)
+
+
 ---
 
 <h2 style="color:#800000">📫 Como me encontrar</h2>
