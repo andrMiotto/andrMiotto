@@ -9,7 +9,7 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 <h2>🧠 Sobre mim</h2>
 
-- <strong>Foco atual:</strong> Aprimorar minhas habilidades em desenvolvimento Full Stack, com ênfase em boas práticas de programação. 
+- <strong>Foco atual:</strong> Aprimorar minhas habilidades em desenvolvimento Full Stack e como profissional, mantendo sempre boas praticas nos códigos. 
 - <strong>Em aprendizado:</strong> Participando do programa CentroWeg, desenvolvendo projetos práticos em equipe e aplicando conceitos fundamentais do desenvolvimento de software.  
 - <strong>Objetivo profissional:</strong> Evoluir como desenvolvedor Full Stack e me tornar um profissional completo, com domínio técnico, capacidade de trabalho em equipe e foco na entrega de soluções de qualidade. 
 
@@ -87,19 +87,19 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 <h2>🌍 Países que já visitei</h2>
 
-- <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil — onde vivi a maior parte da minha vida  
-- <img src="https://flagcdn.com/w40/pt.png" width="20"/> Portugal — país onde nasci  
-- <img src="https://flagcdn.com/w40/fr.png" width="20"/> França — residi um ano
-- <img src="https://flagcdn.com/w40/ch.png" width="20"/> Suíça — por ser próximo de onde morei na França
+ <img src="https://flagcdn.com/w40/br.png" width="20"/> Brasil — onde vivi a maior parte da minha vida  
+ <img src="https://flagcdn.com/w40/pt.png" width="20"/> Portugal — país onde nasci  
+ <img src="https://flagcdn.com/w40/fr.png" width="20"/> França — residi um ano
+ <img src="https://flagcdn.com/w40/ch.png" width="20"/> Suíça — por ser próximo de onde morei na França
 
 ---
 
 <h2>🌐 Idiomas</h2>
 
-- 🇧🇷 Português — <strong>fluente (nativo)</strong>  
-- 🇺🇸 Inglês — <strong>básico</strong>  
-- 🇫🇷 Francês — <strong>básico</strong>  
-- 🇪🇸 Espanhol — <strong>em aprendizado (ensino médio)</strong>
+🇧🇷 Português — <strong>fluente (nativo)</strong>  
+🇺🇸 Inglês — <strong>básico</strong>  
+🇫🇷 Francês — <strong>básico</strong>  
+🇪🇸 Espanhol — <strong>em aprendizado (ensino médio)</strong>
 
 ---
 
