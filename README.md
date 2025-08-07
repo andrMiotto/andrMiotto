@@ -24,57 +24,23 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Front-end</strong>
   <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
   </div>
 </div>
 
 <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Back-end</strong>
   <div>
-    <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
+    <img src="https://skillicons.dev/icons?i=java,mysql,cpp,python" height="40" />
   </div>
 </div>
 
 <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Ferramentas</strong>
   <div>
-    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-      <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="margin-right: 12px; margin-bottom: 12px;">
-    </a>
+    <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,figma" height="40" />
+  </div>
+</div>
     
 ---  
 <div>
