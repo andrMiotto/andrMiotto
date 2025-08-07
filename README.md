@@ -1,5 +1,7 @@
+
 <h1 align="center">
-  Olá! Eu sou André Miotto
+  <img src="https://i.gifer.com/ZNec.gif" width="40"/> 
+  Olá! Eu sou André Miotto 
   <img src="https://i.gifer.com/ZNec.gif" width="40"/>
 </h1>
 <p align="center">
@@ -145,6 +147,8 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> 
   <a href="https://www.linkedin.com/in/seulinkedin" style="color:#800000">LinkedIn</a>  
 </p>
+
+
 
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> 
