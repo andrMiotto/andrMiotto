@@ -5,7 +5,7 @@
   <img src="https://i.gifer.com/ZNec.gif" width="40"/>
 </h1>
 <p align="center">
-Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo CentroWeg, apaixonado por tecnologia.
+Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo CentroWeg.
 </p>
 
 
