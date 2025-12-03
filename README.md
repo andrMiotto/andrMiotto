@@ -67,7 +67,7 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 <h2>🌐 Idiomas</h2>
 
 🇧🇷 Português — <strong>fluente (nativo)</strong>  
-🇺🇸 Inglês — <strong>básico</strong>  
+🇺🇸 Inglês — <strong>intermediário</strong>  
 🇫🇷 Francês — <strong>básico</strong>  
 🇪🇸 Espanhol — <strong>em aprendizado (ensino médio)</strong>
 
