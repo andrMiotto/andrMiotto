@@ -73,27 +73,12 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 ---
 
-<h2>📂 Repositórios em destaque</h2>
-
-<details>
-  <summary><strong>🔹 projeto-backend-java</strong> — Sistema de cadastro multilíngue</summary>
-  <ul>
-    <li>🛠 Cadastro e gerenciamento de manuais</li>
-    <li>🌐 Suporte a Português, Inglês, Espanhol, Francês e Alemão</li>
-    <li>🔐 Banco de dados com segurança</li>
-    <li>📁 Repositório: <a href="https://github.com/CaduBraga/WegOne">github.com/CaduBraga/WegOne</a></li>
-  </ul>
-</details>
-
----
-
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-  <img 
-    height="190em" 
-    src="https://github-readme-stats.vercel.app/api?username=andrMiotto&show_icons=true&title_color=800000&text_color=ffffff&icon_color=8B0000&bg_color=000000" 
-    alt="Estatísticas do GitHub"
-  />
+  <p 
+    height="190em">
+    Estatísticas do GitHub
+ </p>
 
 </div>
 
@@ -111,7 +96,7 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> 
-  <a href="https://www.linkedin.com/in/seulinkedin" style="color:#800000">LinkedIn</a>  
+  <a href="https://www.linkedin.com/in/andr%C3%A9-luis-miotto-pereira-baba003b4" style="color:#800000">LinkedIn</a>  
 </p>
 
 
