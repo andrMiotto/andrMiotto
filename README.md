@@ -107,5 +107,5 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 </p>
 
 ---
-
+eu casaria com o leandro, lindo demais 
 <h3 align="center" style="color:#B22222">🔱Vamos nos conectar e construir juntos!</h3>
