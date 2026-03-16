@@ -24,21 +24,22 @@ Desenvolvedor Júnior em formação técnica em Desenvolvimento de Sistemas pelo
 <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Front-end</strong>
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" height="40" />
   </div>
 </div>
 
 <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Back-end</strong>
   <div>
-    <img src="https://skillicons.dev/icons?i=java,mysql,cpp,python" height="40" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,mysql,cpp,python" height="40" />
   </div>
 </div>
 
 <div style="margin-bottom: 24px;">
   <strong style="display: block; margin-bottom: 12px;">Ferramentas</strong>
   <div>
-    <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,figma" height="40" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,figma,postman" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" height="40"/>
   </div>
 </div>
     
